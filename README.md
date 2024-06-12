@@ -1,1 +1,1 @@
-# .github
+# University of Sri Jayewardenepura
