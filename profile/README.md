@@ -2,7 +2,7 @@
   <a href="https://https://sjp.ac.lk">
     <picture>
       <source media="(prefers-color-scheme: dark)">
-      <img src="./images/usjp.png" height="128">
+      <img src="./images/usjp.jpg" height="128">
     </picture>
     <h1 align="center">University of Sri Jayewardenepura</h1>
     <p align="center">✨ Welcome to the official GitHub organization for the University of Sri Jayewardenepura! ✨</p>
